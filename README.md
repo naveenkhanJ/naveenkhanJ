@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Naveen 👋
 
-<!--
-**naveenkhanJ/naveenkhanJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer (MERN + Java) from Sri Lanka  
+🎯 Interested in web apps, dashboards, and real-world systems
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- Frontend: React, Tailwind, HTML, CSS
+- Backend: Node.js, Express, Java (JSP/Servlet)
+- Database: MongoDB, MySQL
+- Tools: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- CrowdFlow -  Realtime large scale crowd management system
+- ClickBuy (Java E-commerce) – cart, order confirmation, payment flow
+- Disaster Management System 
+
+## 📫 Contact
+- Email: naveenkhan119@egmail.com
+- LinkedIn: www.linkedin.com/in/jnaveenkhan
